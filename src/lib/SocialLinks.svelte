@@ -1,6 +1,7 @@
 <script lang="ts">
     import type { Social } from './types';
     import IconLoader from './IconLoader.svelte';
+    import { base } from '$app/paths';
 
     export let socials: Social[] = [];
 </script>
