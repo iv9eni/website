@@ -35,3 +35,9 @@ I didn't want to import an entire library of icons that I'll never use so I opte
 ### Unit Testing
 
 ...don't have yet....
+
+## Todo
+
+- Unit Tests
+- Rest of the sections
+- Move styling from low level components higher (SocialLinks, IconLoader, and DarkModeToggle)
