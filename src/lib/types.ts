@@ -3,4 +3,8 @@ export interface Social {
     url: string;
     icon: string;
     platform: string;
+    color?: string;
+    darkColor?: string;
+    hoverColor?: string;
+    darkHoverColor?: string;
 }
