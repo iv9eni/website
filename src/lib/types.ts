@@ -5,6 +5,4 @@ export interface Social {
     platform: string;
     color?: string;
     darkColor?: string;
-    hoverColor?: string;
-    darkHoverColor?: string;
 }
